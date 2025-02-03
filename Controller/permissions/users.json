@@ -1,0 +1,10 @@
+[
+    {
+        "username": "testUser",
+        "permissions": ["service1", "service2"]
+    },
+    {
+        "username": "username2",
+        "permissions": ["service3"]
+    }
+]
